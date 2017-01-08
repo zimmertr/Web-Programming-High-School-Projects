@@ -24,6 +24,9 @@ A crude animation that was supposed to be me moving in from the left side of the
 
 ![Alt text](https://raw.githubusercontent.com/zimmertr/Web-Programming-High-School-Projects/master/Screenshots/flash_locker.png "Opening Locker Animation")
 
+###Shape Tween
+
+When the gif begins, there are four objects. The words `OMG` and `LOL` and two other objects. The objects morph and switch places. The animation was too fast to capture a good screenshot so I gave up.
 ___
 ##HTML
 
