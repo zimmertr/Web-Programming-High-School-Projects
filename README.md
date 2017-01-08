@@ -16,13 +16,13 @@ A long time ago Adobe has a product called Macromedia Flash which you could use 
 
 A simple project where clouds move across the sky and the black blob's eyes look left and right. 
 
-![Alt text](https://raw.githubusercontent.com/zimmertr/High-School-Projects/master/Screenshots/flash_eyes.png "Moving Eyes ")
+![Alt text](https://raw.githubusercontent.com/zimmertr/Web-Programming-High-School-Projects/master/Screenshots/flash_eyes.png "Moving Eyes ")
 
 ###Going to Class
 
 A crude animation that was supposed to be me moving in from the left side of the screen, opening my locker, grabbing some books, and going through the door to class. Only half of it was completed.
 
-![Alt text](https://raw.githubusercontent.com/zimmertr/High-School-Projects/master/Screenshots/flash_locker.png "Opening Locker Animation")
+![Alt text](https://raw.githubusercontent.com/zimmertr/Web-Programming-High-School-Projects/master/Screenshots/flash_locker.png "Opening Locker Animation")
 
 ___
 ##HTML
@@ -34,4 +34,18 @@ Pete's Pets is a website that everyone in our class was responsible for recreati
 - Link to a spreadsheet and a document
 - Integrate with Google Maps.
 
-![ALT text](http://i.imgur.com/FAe00Jm.jpg "Website")
+Index Page:
+
+![Alt text](https://raw.githubusercontent.com/zimmertr/Web-Programming-High-School-Projects/master/Screenshots/index.png "Index page")
+
+Location Page:
+
+![Alt text](https://raw.githubusercontent.com/zimmertr/Web-Programming-High-School-Projects/master/Screenshots/location.png "Location page")
+
+Frequently Asked Questions Page:
+
+![Alt text](https://raw.githubusercontent.com/zimmertr/Web-Programming-High-School-Projects/master/Screenshots/faq.png "Frequently Asked Questions Page")
+
+Contact Page:
+
+![Alt text](https://raw.githubusercontent.com/zimmertr/Web-Programming-High-School-Projects/master/Screenshots/contact.png "Contact Us Page")
